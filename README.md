@@ -22,11 +22,11 @@ Refer to this [setup video]() to install the dependencies and generate OpenAI ke
 
 - Star this repository (top-right corner)
 - Install the dependencies following these steps : 
-```
-1. Star this repository (top right corner) 
-2. <>Code > Download ZIP > Open cmd/terminal in that location
-3. Run this command : `pip install -r requirements.txt`
-```
+
+  - Star this repository (top right corner) 
+  - <>Code > Download ZIP > Open cmd/terminal in that location
+  - Run this command : `pip install -r requirements.txt`
+
 - Paste your OpenAI API keys in `pass.yml` file
 
 <br>
