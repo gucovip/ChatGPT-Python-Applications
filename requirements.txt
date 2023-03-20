@@ -1,5 +1,4 @@
 openai
 gradio 
 requests 
-email
 yaml
