@@ -1,6 +1,5 @@
 openai
 gradio 
 requests 
-imaplib
 email
 yaml
