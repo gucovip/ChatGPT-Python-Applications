@@ -1,4 +1,3 @@
 openai
 gradio 
-requests 
 yaml
