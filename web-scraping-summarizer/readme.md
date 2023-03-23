@@ -18,7 +18,7 @@ The tool works by first scraping the website using Beautiful Soup to extract the
 ### Setup
 
 
-Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. Make sure you've changed the API keys in `pass.yml` file, else it'll raise error `openai.error.AuthenticationError: Incorrect API key provided`. I've articulated the steps in text format here : 
+Refer to this [setup video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. Make sure you've changed the API keys in `pass.yml` file, else it'll raise error `openai.error.AuthenticationError: Incorrect API key provided`. I've articulated the steps in text format here : 
 
 - start this repository
 - Install the dependencies of this repository 
