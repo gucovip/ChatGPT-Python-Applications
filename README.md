@@ -29,6 +29,11 @@ Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the depende
 
 - Paste your OpenAI API keys in `pass.yml` file
 
+- To clone the repository use this code in command line 
+```
+git clone https://github.com/xiaowuc2/ChatGPT-Python-Applications
+```
+
 <br>
 
 ### Applications 
