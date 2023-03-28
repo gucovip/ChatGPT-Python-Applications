@@ -16,6 +16,25 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 
 <br>
 
+
+<br>
+
+<p align="center">
+Author : 
+  <a href="https://github.com/xiaowuc2">
+    @xiaowuc2
+  </a>
+
+</p>
+
+I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job TCS, Walmart, Accenture, Cognizant. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
+
+- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+
+
+<br>
+
 ### Setup 
 
 Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the dependencies and generate OpenAI keys and incorporate with our applications. I've articulated the steps in text format here : 
@@ -78,3 +97,7 @@ If you would like to contribute more Applications, please follow these guideline
 - [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
 - [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+
+
+[^1]: 10Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
+[^2]: Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
