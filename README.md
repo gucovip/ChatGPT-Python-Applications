@@ -32,6 +32,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 - [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
 - [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning.
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+- `Follow` me in github for new project : python, machine learning and DSA (coding interview)
 
 
 <br>
@@ -74,7 +75,7 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 
 ⚠️ Few applications are under development, will upload the codes asap! you can `⭐` this repo / sub to this [channel](https://www.youtube.com/@qxresearch/)  to get the updates. 
 
-**You can `follow` me in github for new project updates pertaining to machine learning, python and DSA (coding interview)**
+
 
 <br>
 
